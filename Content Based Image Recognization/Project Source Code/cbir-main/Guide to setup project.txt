@@ -1,0 +1,23 @@
+-------------------------------------------------
+Running the project
+-------------------------------------------------
+
+1. Open Anaconda command 
+2. Type 
+	E:
+3. Type 
+	cd Projects
+4. Type 
+	cd Content Based Image Recognization
+5. Type 
+	cd Project Source Code
+6. Type
+	cd cbir-main
+
+7. Type
+	conda activate cbir	
+7. Type 
+	python facemask.py False False
+
+
+

@@ -1,0 +1,29 @@
+Setting up project
+---------------------------------------------------------------------------
+
+1. Install anaconda 
+
+2. Run Anaconda cmd and move to position of your project
+(E:\TechIndiaDigital\Projects\Image-SuperResolution-Using-Deep-Leaning-Keras-Implementation--master - Final Year\E:\TechIndiaDigital\Projects\Image-SuperResolution-Using-Deep-Leaning-Keras-Implementation--master\Project Source Code)
+
+3. Create a new environment with python installation .
+PS : Python version is 3.6
+(conda create -n pranav python=3.6)
+Here pranav = env name
+
+4. Activate the newly created environment
+conda activate pranav
+
+5. Run the following commands
+	conda install -c conda-forge skorch
+	conda install -c anaconda scikit-learn
+	conda install -c conda-forge matplotlib
+	conda install -c anaconda joblib
+	conda install -c anaconda opencv
+	conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+
+6. Run the code by following command
+python facemask.py False False
+
+
